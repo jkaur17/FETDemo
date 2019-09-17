@@ -1276,7 +1276,6 @@
         <members>Opportunity</members>
         <members>Order</members>
         <members>Solution</members>
-        <members>Task</members>
         <name>TopicsForObjects</name>
     </types>
     <types>
